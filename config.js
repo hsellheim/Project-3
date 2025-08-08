@@ -18,7 +18,7 @@ var config = {
     title: 'Under attack',
     subtitle: 'Media reports about attacks on pride parades in Germany have recently become more frequent, making the events feel increasingly unsafe for members of the community. A look at the data illustrates the magnitude of the problem.',
     byline: 'By Hanna Sellheim',
-    footer: 'You can find the data and methodology here. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'You can find the data and methodology <a href="https://github.com/hsellheim/Project-3">here</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'slug-style-id',
