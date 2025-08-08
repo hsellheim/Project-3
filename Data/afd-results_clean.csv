@@ -1,0 +1,300 @@
+Nr,Gebiet,AfD Zweitstimmen
+001,Flensburg – Schleswig,29272
+002,Nordfriesland – Dithmarschen Nord,24564
+003,Steinburg – Dithmarschen Süd,29653
+004,Rendsburg-Eckernförde,27498
+005,Kiel,17884
+006,Plön – Neumünster,25683
+007,Pinneberg,31098
+008,Segeberg – Stormarn-Mitte,36208
+009,Ostholstein – Stormarn-Nord,26495
+010,Herzogtum Lauenburg – Stormarn-Süd,35556
+011,Lübeck,22254
+012,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,54975
+013,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,56238
+014,Rostock – Landkreis Rostock II,45612
+015,Vorpommern-Rügen – Vorpommern-Greifswald I,65651
+016,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,71488
+017,Mecklenburgische Seenplatte II – Landkreis Rostock III,63397
+018,Hamburg-Mitte,19821
+019,Hamburg-Altona,11602
+020,Hamburg-Eimsbüttel,12524
+021,Hamburg-Nord,15780
+022,Hamburg-Wandsbek,25279
+023,Hamburg-Bergedorf – Harburg,28602
+024,Aurich – Emden,32547
+025,Unterems,41176
+026,Friesland – Wilhelmshaven – Wittmund,30283
+027,Oldenburg – Ammerland,24922
+028,Delmenhorst – Wesermarsch – Oldenburg-Land,35955
+029,Cuxhaven – Stade II,30931
+030,Stade I – Rotenburg II,30502
+031,Mittelems,28484
+032,Cloppenburg – Vechta,38354
+033,Diepholz – Nienburg I,28344
+034,Osterholz – Verden,29183
+035,Rotenburg I – Heidekreis,27470
+036,Harburg,29323
+037,Lüchow-Dannenberg – Lüneburg,25059
+038,Osnabrück-Land,30209
+039,Stadt Osnabrück,18542
+040,Nienburg II – Schaumburg,32252
+041,Stadt Hannover I,18413
+042,Stadt Hannover II,16411
+043,Hannover-Land I,33246
+044,Celle – Uelzen,35378
+045,Gifhorn – Peine,38992
+046,Hameln-Pyrmont – Holzminden,30612
+047,Hannover-Land II,34337
+048,Hildesheim,31742
+049,Salzgitter – Wolfenbüttel,33838
+050,Braunschweig,20624
+051,Helmstedt – Wolfsburg,31215
+052,Goslar – Northeim – Göttingen II,30930
+053,Göttingen I,25266
+054,Bremen I,22793
+055,Bremen II – Bremerhaven,29703
+056,Prignitz – Ostprignitz-Ruppin – Havelland I,48294
+057,Uckermark – Barnim I,50766
+058,Oberhavel – Havelland II,61546
+059,Märkisch-Oderland – Barnim II,64891
+060,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,50225
+061,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,36922
+062,Dahme-Spreewald – Teltow-Fläming III,63993
+063,Frankfurt (Oder) – Oder-Spree,52665
+064,Cottbus – Spree-Neiße,51313
+065,Elbe-Elster – Oberspreewald-Lausitz,54660
+066,Altmark – Jerichower Land,66175
+067,Börde – Salzlandkreis,70160
+068,Harz,56490
+069,Magdeburg,52629
+070,Anhalt – Dessau – Wittenberg,65551
+071,Halle,49347
+072,Burgenland – Saalekreis,66137
+073,Mansfeld,69621
+074,Berlin-Mitte,14291
+075,Berlin-Pankow,31087
+076,Berlin-Reinickendorf,23124
+077,Berlin-Spandau – Charlottenburg Nord,25305
+078,Berlin-Steglitz-Zehlendorf,18678
+079,Berlin-Charlottenburg-Wilmersdorf,14329
+080,Berlin-Tempelhof-Schöneberg,20986
+081,Berlin-Neukölln,18874
+082,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,12986
+083,Berlin-Treptow-Köpenick,36410
+084,Berlin-Marzahn-Hellersdorf,46285
+085,Berlin-Lichtenberg,34635
+086,Aachen I,13889
+087,Aachen II,34595
+088,Heinsberg,31408
+089,Düren,33517
+090,Rhein-Erft-Kreis I,34398
+091,Euskirchen – Rhein-Erft-Kreis II,37881
+092,Köln I,18853
+093,Köln II,13444
+094,Köln III,18861
+095,Bonn,17186
+096,Rhein-Sieg-Kreis I,34453
+097,Rhein-Sieg-Kreis II,26036
+098,Oberbergischer Kreis,35722
+099,Rheinisch-Bergischer Kreis,24339
+100,Leverkusen – Köln IV,25392
+101,Wuppertal I,27299
+102,Solingen – Remscheid – Wuppertal II,31539
+103,Mettmann I,25921
+104,Mettmann II,21731
+105,Düsseldorf I,18536
+106,Düsseldorf II,19606
+107,Neuss I,29147
+108,Mönchengladbach,25125
+109,Krefeld I – Neuss II,23886
+110,Viersen,29312
+111,Kleve,29096
+112,Wesel I,29406
+113,Krefeld II – Wesel II,23203
+114,Duisburg I,21867
+115,Duisburg II,27428
+116,Oberhausen – Wesel III,31565
+117,Mülheim – Essen I,24695
+118,Essen II,24911
+119,Essen III,19029
+120,Recklinghausen I,25875
+121,Recklinghausen II,30724
+122,Gelsenkirchen,30032
+123,Steinfurt I – Borken I,24879
+124,Bottrop – Recklinghausen III,32770
+125,Borken II,22829
+126,Coesfeld – Steinfurt II,21368
+127,Steinfurt III,24959
+128,Münster,14210
+129,Warendorf,27955
+130,Gütersloh I,35112
+131,Bielefeld – Gütersloh II,28143
+132,Herford – Minden-Lübbecke II,38433
+133,Minden-Lübbecke I,35284
+134,Lippe I,39517
+135,Höxter – Gütersloh III – Lippe II,29045
+136,Paderborn,36233
+137,Hagen – Ennepe-Ruhr-Kreis I,32094
+138,Ennepe-Ruhr-Kreis II,23813
+139,Bochum I,22483
+140,Herne – Bochum II,27453
+141,Dortmund I,25852
+142,Dortmund II,27597
+143,Unna I,29405
+144,Hamm – Unna II,38093
+145,Soest,35823
+146,Hochsauerlandkreis,27453
+147,Siegen-Wittgenstein,33907
+148,Olpe – Märkischer Kreis I,33289
+149,Märkischer Kreis II,32473
+150,Nordsachsen,53911
+151,Leipzig I,46288
+152,Leipzig II,36425
+153,Leipzig-Land,65867
+154,Meißen,68151
+155,Bautzen I,73912
+156,Görlitz,71855
+157,Sächsische Schweiz-Osterzgebirge,74174
+158,Dresden I,50386
+159,Dresden II – Bautzen II,55900
+160,Mittelsachsen,64094
+161,Chemnitz,47112
+162,Chemnitzer Umland – Erzgebirgskreis II,57239
+163,Erzgebirgskreis I,75153
+164,Zwickau,60795
+165,Vogtlandkreis,57139
+166,Waldeck,31360
+167,Kassel,27359
+168,Werra-Meißner – Hersfeld-Rotenburg,31857
+169,Schwalm-Eder,36110
+170,Marburg,27521
+171,Lahn-Dill,37485
+172,Gießen,33917
+173,Fulda,40951
+174,Main-Kinzig – Wetterau II – Schotten,36171
+175,Hochtaunus,24855
+176,Wetterau I,25828
+177,Rheingau-Taunus – Limburg,31947
+178,Wiesbaden,20737
+179,Hanau,27409
+180,Main-Taunus,21894
+181,Frankfurt am Main I,17092
+182,Frankfurt am Main II,17794
+183,Groß-Gerau,23608
+184,Offenbach,26232
+185,Darmstadt,27443
+186,Odenwald,36237
+187,Bergstraße,32971
+188,Eichsfeld – Nordhausen – Kyffhäuserkreis,64146
+189,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,64061
+190,Jena – Sömmerda – Weimarer Land I,52020
+191,Gotha – Ilm-Kreis,59557
+192,Erfurt – Weimar – Weimarer Land II,46999
+193,Gera – Greiz – Altenburger Land,74761
+194,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,73577
+195,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,75406
+196,Neuwied,41999
+197,Ahrweiler,29074
+198,Koblenz,25417
+199,Mosel/Rhein-Hunsrück,27721
+200,Kreuznach,32452
+201,Bitburg,23936
+202,Trier,24079
+203,Montabaur,36380
+204,Mainz,23043
+205,Worms,38744
+206,Ludwigshafen/Frankenthal,37871
+207,Neustadt – Speyer,36876
+208,Kaiserslautern,45951
+209,Pirmasens,37286
+210,Südpfalz,37866
+211,Altötting,33186
+212,Erding – Ebersberg,28847
+213,Freising,38983
+214,Fürstenfeldbruck,29818
+215,Ingolstadt,41843
+216,München-Nord,17688
+217,München-Ost,19694
+218,München-Süd,16782
+219,München-West/Mitte,18822
+220,München-Land,24076
+221,Rosenheim,39378
+222,Bad Tölz-Wolfratshausen – Miesbach,24274
+223,Starnberg – Landsberg am Lech,25308
+224,Traunstein,34619
+225,Weilheim,24239
+226,Deggendorf,39530
+227,Landshut,46429
+228,Passau,36668
+229,Rottal-Inn,37107
+230,Straubing,39114
+231,Amberg,40014
+232,Regensburg,39770
+233,Schwandorf,51973
+234,Weiden,33125
+235,Bamberg,29980
+236,Bayreuth,26687
+237,Coburg,28511
+238,Hof,31308
+239,Kulmbach,32989
+240,Ansbach,43752
+241,Erlangen,23504
+242,Fürth,39100
+243,Nürnberg-Nord,18303
+244,Nürnberg-Süd,26901
+245,Roth,35444
+246,Aschaffenburg,29412
+247,Bad Kissingen,41432
+248,Main-Spessart,31844
+249,Schweinfurt,34404
+250,Würzburg,25951
+251,Augsburg-Stadt,25826
+252,Augsburg-Land,38629
+253,Donau-Ries,36829
+254,Neu-Ulm,41290
+255,Memmingen – Unterallgäu,31392
+256,Oberallgäu,33443
+257,Ostallgäu,27513
+258,Stuttgart I,14421
+259,Stuttgart II,19979
+260,Böblingen,35769
+261,Esslingen,22298
+262,Nürtingen,31028
+263,Göppingen,33280
+264,Waiblingen,34225
+265,Ludwigsburg,30246
+266,Neckar-Zaber,39634
+267,Heilbronn,49241
+268,Schwäbisch Hall – Hohenlohe,46424
+269,Backnang – Schwäbisch Gmünd,33901
+270,Aalen – Heidenheim,41367
+271,Karlsruhe-Stadt,22678
+272,Karlsruhe-Land,33394
+273,Rastatt,36771
+274,Heidelberg,22414
+275,Mannheim,26735
+276,Odenwald – Tauber,40150
+277,Rhein-Neckar,33687
+278,Bruchsal – Schwetzingen,36181
+279,Pforzheim,43959
+280,Calw,41611
+281,Freiburg,20285
+282,Lörrach – Müllheim,33961
+283,Emmendingen – Lahr,35309
+284,Offenburg,36363
+285,Rottweil – Tuttlingen,43401
+286,Schwarzwald-Baar,30953
+287,Konstanz,31136
+288,Waldshut,27607
+289,Reutlingen,34596
+290,Tübingen,27676
+291,Ulm,36448
+292,Biberach,33316
+293,Bodensee,27290
+294,Ravensburg,29900
+295,Zollernalb – Sigmaringen,38796
+296,Saarbrücken,29681
+297,Saarlouis,35421
+298,St. Wendel,29391
+299,Homburg,34801
